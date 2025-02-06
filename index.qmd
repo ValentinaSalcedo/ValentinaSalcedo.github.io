@@ -1,0 +1,28 @@
+---
+title: "Valentina Salcedo"
+image: media/profile_picture.jpg
+2toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 18em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/valentinasalcedo/
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/valentinasalcedo
+      target: _blank
+    - text: Email
+      icon: envelope
+      href: mailto:valentinasalcedo14@gmail.com
+      target: _blank
+    - text: Resume
+      icon: file-pdf
+      href: https://github.com/erikdeluca/erikdeluca.github.io/blob/master/media/CV_ENG_Actuary_DS_11_24.pdf
+      target: _blank
+---
+
+Hello! I’m Erik De Luca, an actuary with a passion for data science, always seeking new ways to transform complex numbers and data into comprehensible stories and practical solutions. With a background in statistics and actuarial techniques, I have a keen interest in quantitative finance and portfolio optimization. When not immersed in numbers, I indulge in travel, craft beer brewing, and judo. Welcome to my corner of the web!
