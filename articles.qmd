@@ -1,0 +1,28 @@
+---
+title: Articles
+subtitle: Some projects where I have worked on
+listing:
+  contents: articles
+  feed: true
+  # sort: ["date-modified desc", "date desc"]
+  sort: [date desc]
+  type: grid
+  max-description-length: 175
+  date-format: medium
+  # categories: cloud
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+toc: false
+---
+
+::: {.callout-note collapse=true}
+I'm still working on transfer my past project to this website. In the meanwhile you can find other projects in:
+
+-   [Rpubs](https://rpubs.com/erik4399)
+
+-   [Github](https://github.com/erikdeluca)
+
+:::

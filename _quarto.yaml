@@ -3,36 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "Erik De Luca"
-  favicon: "media/logo2.0.png"
+  title: Valentina Salcedo
+  # favicon: "media/logo2.0.png"
   navbar:
     title: false
-    logo: "media/logo2.1 rectangle.png"
-    logo-alt: "Logo with a stylized E, D and L"
+    # logo: "media/logo2.1 rectangle.png"
+    # logo-alt: "Logo with a stylized E, D and L"
     left:
       - href: index.qmd
         text: Home
-      - href: projsects.qmd
-        text: Projects
-      - href: about.qmd
-        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: essay.qmd
+        text: Essay
+      - href: articles.qmd
+        text: Articles
   page-footer:
     background: light # or `dark`
-    left: |
-      DE LUCA ERIK, P.IVA: IT01401250327 <br>
-      Sede legale: Via dei Giardini, 50 - 34146 - Trieste
+    # left: |
+      # DE LUCA ERIK, P.IVA: IT01401250327 <br>
+      # Sede legale: Via dei Giardini, 50 - 34146 - Trieste
     center: |
-      Copyright 2024, Erik De Luca
+      Copyright 2025, Valentina Salcedo
     right: |
       This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/erikdeluca/erikdeluca.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
   cookie-consent:
     type: express
     # style: headline
     palette: light
-  google-analytics:
-    tracking-id: G-X7MSMF2M7M
-    anonymize-ip: true
-  site-url: https://erikdeluca.github.io
+  # google-analytics:
+  #   tracking-id: G-X7MSMF2M7M
+  #   anonymize-ip: true
+  site-url: https://valentinasalcedo.github.io
 
 format:
   html:
