@@ -48,3 +48,6 @@ format:
     code-fold: true
     df-print: paged
     warnings: false
+
+execute:
+  freeze: auto

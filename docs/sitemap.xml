@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://erikdeluca.github.io/LICENSE.html</loc>
-    <lastmod>2025-02-06T18:04:20.035Z</lastmod>
-  </url>
-  <url>
-    <loc>https://erikdeluca.github.io/about.html</loc>
-    <lastmod>2025-02-06T18:05:06.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://erikdeluca.github.io/index.html</loc>
-    <lastmod>2025-08-19T20:08:08.732Z</lastmod>
+    <loc>https://valentinasalcedo.github.io/posts/new-article-test/index.html</loc>
+    <lastmod>2025-08-19T20:29:48.192Z</lastmod>
   </url>
   <url>
     <loc>https://valentinasalcedo.github.io/index.html</loc>
-    <lastmod>2025-08-19T20:24:45.474Z</lastmod>
+    <lastmod>2025-08-19T20:29:48.156Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valentinasalcedo.github.io/about.html</loc>
+    <lastmod>2025-08-19T20:29:48.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valentinasalcedo.github.io/LICENSE.html</loc>
+    <lastmod>2025-08-19T20:29:48.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valentinasalcedo.github.io/articles.html</loc>
+    <lastmod>2025-08-19T20:39:32.237Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+---
+title: Articles
+subtitle: Some articles written by me
+listing:
+  contents: projects
+  feed: true
+  # sort: ["date-modified desc", "date desc"]
+  sort: [date desc]
+  type: grid
+  max-description-length: 175
+  date-format: medium
+  # categories: cloud
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+toc: false
+---
