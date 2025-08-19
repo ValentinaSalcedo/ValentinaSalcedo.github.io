@@ -1,0 +1,21 @@
+---
+title: "new article test"
+description: "description test"
+author: "vale"
+date: "2025-08-19"
+categories: ["testing"]
+image: ""
+image-alt: ""
+---
+
+## Introduction
+
+Write your blog post content here.
+
+## Main Content
+
+Your main content goes here.
+
+## Conclusion
+
+Wrap up your post here.
