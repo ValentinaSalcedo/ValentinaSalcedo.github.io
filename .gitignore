@@ -1,3 +1,7 @@
 .Rproj.user
 
 /.quarto/
+
+/.luarc.json
+quarto publish gh-pages
+/_site/

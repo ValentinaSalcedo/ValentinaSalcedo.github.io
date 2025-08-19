@@ -10,6 +10,7 @@
 <atom:link href="https://valentinasalcedo.github.io/articles.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
+<<<<<<< HEAD
 <lastBuildDate>Sun, 23 Feb 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Knowledge About HPV and the HPV Vaccine</title>
@@ -48,5 +49,8 @@
   <pubDate>Sun, 23 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://valentinasalcedo.github.io/articles/2025-08-09 my first article/cover.png" medium="image" type="image/png"/>
 </item>
+=======
+<lastBuildDate>Tue, 19 Aug 2025 20:44:09 GMT</lastBuildDate>
+>>>>>>> ded14d43001ecde1244d0d95d82f77176e37dbe1
 </channel>
 </rss>
