@@ -7,7 +7,7 @@ description: |
   Bridging Knowledge Gaps: HPV Awareness and Vaccination Efforts in Italian Schools
 date: 2025-02-24
 categories: [Food, Travel]
-image: cover.png
+image: Trieste natale orsachiotti.png
 # comments:
 #   giscus:
 #     repo: erikdeluca/erikdeluca.github.io

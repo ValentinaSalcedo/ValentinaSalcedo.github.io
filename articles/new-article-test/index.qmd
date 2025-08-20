@@ -1,10 +1,11 @@
 ---
 title: "new article test"
+subtitle: "this is a subtitle"
 description: "description test"
-author: "vale"
+author: "erik"
 date: "2025-08-19"
 categories: ["testing"]
-image: ""
+image: "random_picture.png"
 image-alt: ""
 ---
 
@@ -12,10 +13,16 @@ image-alt: ""
 
 Write your blog post content here.
 
+{{< lipsum 1 >}}
+
 ## Main Content
 
 Your main content goes here.
 
+{{< lipsum 2 >}}
+
 ## Conclusion
 
 Wrap up your post here.
+
+{{< lipsum 3 >}}

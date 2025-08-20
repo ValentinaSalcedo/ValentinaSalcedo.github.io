@@ -2,7 +2,7 @@
 title: Articles
 subtitle: Some articles written by me
 listing:
-  contents: projects
+  contents: articles
   feed: true
   # sort: ["date-modified desc", "date desc"]
   sort: [date desc]
