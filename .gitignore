@@ -5,3 +5,4 @@
 /.luarc.json
 quarto publish gh-pages
 /_site/
+**/*.quarto_ipynb
