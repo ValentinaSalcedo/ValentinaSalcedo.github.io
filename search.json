@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "articles/2025-08-09 my first article/index.html",
-    "href": "articles/2025-08-09 my first article/index.html",
-    "title": "Knowledge About HPV and the HPV Vaccine",
+    "objectID": "essay.html",
+    "href": "essay.html",
+    "title": "Essay",
     "section": "",
-    "text": "MDPI Journal"
-  },
-  {
-    "objectID": "articles/2025-08-09 my first article/index.html#about-this-study",
-    "href": "articles/2025-08-09 my first article/index.html#about-this-study",
-    "title": "Knowledge About HPV and the HPV Vaccine",
-    "section": "About This Study",
-    "text": "About This Study\nI want to share our recent publication in the journal Vaccines! This study explores the awareness, knowledge, and vaccination practices of Italian adolescents regarding the Human Papillomavirus (HPV) and its vaccine. As a contributor to the methodology and formal analysis sections, I helped reveal crucial insights into the existing gaps in knowledge and vaccination coverage.\nOur research, conducted across three regions in Italy, highlights significant misunderstandings among adolescents about HPV transmission and the diseases it causes. The study emphasizes the urgent need for better educational efforts and coordinated national strategies to enhance awareness and increase vaccination rates.\nFor those interested in public health and adolescent education, I invite you to read the full article here. Your thoughts and feedback would be greatly appreciated!"
-  },
-  {
-    "objectID": "articles/2025-08-09 my first article/index.html#abstract",
-    "href": "articles/2025-08-09 my first article/index.html#abstract",
-    "title": "Knowledge About HPV and the HPV Vaccine",
-    "section": "Abstract",
-    "text": "Abstract\nBackground/Objectives: HPV is the most common sexually transmitted infectious agent worldwide and adolescents are at high risk of contracting HPV. The aim of our study was to find out how much adolescents know about the virus and its effects, and to obtain information on attitudes and behaviors regarding HPV vaccination to close these gaps. Methods: As part of the ESPRIT project, 598 lower secondary (11–14 years) and upper secondary (14–19 years) school students from three Italian regions were surveyed between December 2023 and March 2024 using a seven-question online questionnaire on awareness, knowledge, and attitudes about HPV and the HPV vaccine. Count and zero-inflation models were used to determine correlations between sexes, urban/suburban, province of residence, and school type with knowledge. Results: Lower secondary students believed that HPV causes HIV/AIDS (8.9%) or hepatitis C (3.0%) and rarely mentioned anal (21%) and oral sex (9.6%) as ways of transmission. Among upper secondary students, misconceptions were similar, with worrying rates of students stating that HPV only causes cancer in females (18%) or males (2.4%), and low rates of identifying transmission risk through anal (41%) and oral (34%) sex and genital contact (38%). The HPV vaccination rate was quite low (47% in lower secondary students, 61% in upper secondary students). In the regressions, sex, urban/suburban area, and province were the variables associated with higher levels of knowledge for lower secondary students; for upper secondary students, level of knowledge was associated with sex, urban/suburban area, school type, and province of residence. Conclusions: Awareness and knowledge of HPV and the HPV vaccine are low among Italian students in this study and reported vaccination coverage is below the national target. Coordinated efforts at the national level are needed to address this public health issue."
-  },
-  {
-    "objectID": "articles/2025-08-09 my first article/index.html#my-contributions",
-    "href": "articles/2025-08-09 my first article/index.html#my-contributions",
-    "title": "Knowledge About HPV and the HPV Vaccine",
-    "section": "My contributions",
-    "text": "My contributions\n\nData Anlaysis\nSociodemographic data such as school characteristics (e.g., urban/suburban, lower/upper secondary school, northern/central/southern Italy, type of upper secondary school) and participant characteristics (e.g., gender) were included as predictors in the model, while the total score was set as the dependent variable. The types of upper secondary schools considered reflect the three main types of schools that exist in Italy: academic schools (in which the education is mainly theoretical, with a specialization in a specific field, e.g., humanities and antiquity, mathematics and natural sciences, foreign languages, psychology and pedagogy, social sciences, fine arts), technical schools (in which the education provides both a broad theoretical training and a specialization in a specific field (e.g., economics, administration, technology, tourism, agronomy), often in combination with a three-/six-month internship in a company, association, or college), and vocational schools (this type of school provides secondary education with a focus on practical subjects (e.g., engineering, agriculture, gastronomy, technical assistance, crafts) and allows students to start looking for a job immediately after completing their education). None of these types of schools are likely to be single-sex schools in the national public system.\nThere were several possible answers to each question. If an answer was marked correctly, the student received +1, otherwise 0. If the answer was “I don’t know”, the score for the entire question was set to 0, as the student did not know the correct answer, even if they had not marked the wrong answer. The answers given by the students as strings (i.e., “Other”) were not considered when calculating the points. The total score was calculated as the sum of the scores for each valuable question, including Q1, Q2, and Q4. For every question, the frequency and probability of responses for every socio-demographic characteristic were calculated. In addition, the p-value and significance of the proportion test were calculated for each pair of sociodemographic characteristics. The minimum p-value was set at 0.05 and the test power had to be at least 0.8. For the analysis of the overall scores, each observation was weighted to obtain an inverse propensity weighting (IPW) for each linear combination of sociodemographic characteristics. However, for some linear combinations, there were no observations, because there were no schools for these combinations, which made an IPW impossible. Therefore, the data for these groups were generated using a generalized linear model (family quasipoisson) to minimize bias, and then the IPW was calculated. For each socio-demographic characteristic, the weighted Kruskal–Wallis test was calculated to demonstrate stochastic superiority. A t-test or ANOVA test was not used as the assumptions were not met. Finally, a weighted Poisson model with zero-inflation was calculated. First, the probability of receiving 0 points in the survey was assessed using a binomial model and then a Poisson model was calculated."
+    "text": "No matching items"
   },
   {
     "objectID": "articles/2025-07-01 coffee in Trieste/index.html",
@@ -42,11 +21,18 @@
     "text": "Italy is renowned for its coffee shops on every corner. This devotion to coffee, however, is taken to a whole different level in Trieste. Trieste was one of the first European cities to open the botteghe da caffè. In the 1700s, these coffeehouses became popular as meeting places for politicians, artists, journalists, writers, and intellectuals. The city’s strategic location between what was once the Austro-Hungarian Empire and Slovenia meant that it was a key entry point for the high-quality green coffee beans coming from Asia, South America, and Africa. Trieste is also the birthplace of the renowned Illy company, a pioneer in espresso machine innovation.\nIn all this time, not much has changed in terms of coffee. Trieste’s inhabitants are very proud of the history and culture that have taken place in their cafés. Like many Italians, they love their coffee. And to make sure that everyone is aware just how important coffee is to them, they’ve made coffee drinking their thing.\nIf you want to order like a true Triestino, you will need a dictionary first. Here’s a quick guide, in case you don’t have one.\n\nNero: A standard espresso served in a small cup.\nCapo: A version of a cappuccino with just a touch of milk, similar to an espresso macchiato.\nGocciato: An espresso with a small drop of milk foam on top.\n\nThese are just a few of the dozens of combinations you can order. To really impress your Italian server, ask for the capo in b (same as capo but in a glass). They will be surprised to see that a tourist unaccompanied by a local seems to know about this classic coffee.\nBut where can you savor this experience?"
   },
   {
-    "objectID": "articles.html",
-    "href": "articles.html",
-    "title": "Articles",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Valentina Salcedo",
     "section": "",
-    "text": "new article test\n\n\n\ntesting\n\n\n\ndescription test\n\n\n\nerik\n\n\nAug 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nIn the city of coffee\n\n\n\nFood\n\nTravel\n\nCoffee\n\n\n\nShort essay about culture of coffee in Trieste, written for “TheAmerican Magazine”\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nKnowledge About HPV and the HPV Vaccine\n\n\n\nFood\n\nTravel\n\n\n\nBridging Knowledge Gaps: HPV Awareness and Vaccination Efforts in Italian Schools\n\n\n\n\n\n\nFeb 24, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "I’m a journalist currently pursuing a Master in International Marketing and Management. I’m working as a contributing writer at TheAmerican Magazine and LiveInItaly.\nI graduated with a Bachelor degree in Communication and Journalism from University Externado of Colombia in 2024, and prior to that, graduated with a recognition for my investigative work in social outbreak and national strike in Colombia during 2022.\nWith a strong background in journalism, most of my"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Valentina Salcedo",
+    "section": "",
+    "text": "I’m a journalist currently pursuing a Master in International Marketing and Management. I’m working as a contributing writer at TheAmerican Magazine and LiveInItaly.\nI graduated with a Bachelor degree in Communication and Journalism from University Externado of Colombia in 2024, and prior to that, graduated with a recognition for my investigative work in social outbreak and national strike in Colombia during 2022.\nWith a strong background in journalism, most of my"
   },
   {
     "objectID": "LICENSE.html",
@@ -77,25 +63,39 @@
     "text": "Personal Life\n\nSport\nI think that sport is very important in the life and helps to develop strength and health. Main sports:\n\nJudo: From 4 y.o., I have done international competitions around Europe. In 2016, I went for 3 weeks for a training camp in Japan. But about Judo, I’m proud of my siblings who have achieved world results, as my brother was 3rd in the World Judo Championship and 2nd in the European Judo Championship keeping the 1st place in the Juniors (U21) ranking -66Kg.\nRun: I’m not very fast and not the best runner definitely. But I’m really proud about a personal challenge done in 2023, where I finished a trail of 57 Km without ever having ran more than 21 Km. It was quite mind-challenging.\nMy secret dream is climbing, and that is my scope for the future. Until now I have only practiced bouldering in Germany, which is a fantastic place for that., but for sure one of my purposes for 2025 is finding my new place for bouldering.\n\n\n\nTravel\nI could be boring on this point but it is the truth. I think that post-COVID most people changed their habits and I wasn’t the exception. I’ve been to 20 countries, but some of them have been important for me:\n\nColombia: Follow my love and discover another one. That is the magic about travelling. I’ve lived for 3 months around this amazing country really different from what I expected.\nMalaga (Spain): I’m sure that everyone who has done an exchange program (e.g. Erasmus) can agree with me, I Ieft a piece of my heart.\nSweden: It took place in my first Erasmus project and helped me to fight my fear for English, besides that I got the chance of meeting people from around Europe full of energy and positivity.\nMarocco: I’ve been twice but why talking about the easy time with a touristic tour? Well, my girlfriend and I decided to take a random flight to the most unknown city, Nador, and what an adventure with no data and no local language during Ramadan. It has been a full immersion in the Arabic culture.\nHouston (USA): I went to a wedding and I had the opportunity to live as a Texan for one week.\n\n\n\nBeer\nI want to talk about the real beer: the craft one. I’m a nerd about craft beer, I brew my beer since 10 years ago and I use the BIAP method (Brew In A Pot). I love this hobby because it is a mix of creativity, science, and DIY. But I don’t only make it, I also taste it and as a good statistician, I record each one on Untapped!"
   },
   {
-    "objectID": "essay.html",
-    "href": "essay.html",
-    "title": "Essay",
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
     "section": "",
-    "text": "No matching items"
+    "text": "new article test\n\n\n\ntesting\n\n\n\ndescription test\n\n\n\nerik\n\n\nAug 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nIn the city of coffee\n\n\n\nFood\n\nTravel\n\nCoffee\n\n\n\nShort essay about culture of coffee in Trieste, written for “TheAmerican Magazine”\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nKnowledge About HPV and the HPV Vaccine\n\n\n\nFood\n\nTravel\n\n\n\nBridging Knowledge Gaps: HPV Awareness and Vaccination Efforts in Italian Schools\n\n\n\n\n\n\nFeb 24, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Valentina Salcedo",
+    "objectID": "articles/2025-08-09 my first article/index.html",
+    "href": "articles/2025-08-09 my first article/index.html",
+    "title": "Knowledge About HPV and the HPV Vaccine",
     "section": "",
-    "text": "I’m a journalist currently pursuing a Master in International Marketing and Management. I’m working as a contributing writer at TheAmerican Magazine and LiveInItaly.\nI graduated with a Bachelor degree in Communication and Journalism from University Externado of Colombia in 2024, and prior to that, graduated with a recognition for my investigative work in social outbreak and national strike in Colombia during 2022.\nWith a strong background in journalism, most of my"
+    "text": "MDPI Journal"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Valentina Salcedo",
-    "section": "",
-    "text": "I’m a journalist currently pursuing a Master in International Marketing and Management. I’m working as a contributing writer at TheAmerican Magazine and LiveInItaly.\nI graduated with a Bachelor degree in Communication and Journalism from University Externado of Colombia in 2024, and prior to that, graduated with a recognition for my investigative work in social outbreak and national strike in Colombia during 2022.\nWith a strong background in journalism, most of my"
+    "objectID": "articles/2025-08-09 my first article/index.html#about-this-study",
+    "href": "articles/2025-08-09 my first article/index.html#about-this-study",
+    "title": "Knowledge About HPV and the HPV Vaccine",
+    "section": "About This Study",
+    "text": "About This Study\nI want to share our recent publication in the journal Vaccines! This study explores the awareness, knowledge, and vaccination practices of Italian adolescents regarding the Human Papillomavirus (HPV) and its vaccine. As a contributor to the methodology and formal analysis sections, I helped reveal crucial insights into the existing gaps in knowledge and vaccination coverage.\nOur research, conducted across three regions in Italy, highlights significant misunderstandings among adolescents about HPV transmission and the diseases it causes. The study emphasizes the urgent need for better educational efforts and coordinated national strategies to enhance awareness and increase vaccination rates.\nFor those interested in public health and adolescent education, I invite you to read the full article here. Your thoughts and feedback would be greatly appreciated!"
+  },
+  {
+    "objectID": "articles/2025-08-09 my first article/index.html#abstract",
+    "href": "articles/2025-08-09 my first article/index.html#abstract",
+    "title": "Knowledge About HPV and the HPV Vaccine",
+    "section": "Abstract",
+    "text": "Abstract\nBackground/Objectives: HPV is the most common sexually transmitted infectious agent worldwide and adolescents are at high risk of contracting HPV. The aim of our study was to find out how much adolescents know about the virus and its effects, and to obtain information on attitudes and behaviors regarding HPV vaccination to close these gaps. Methods: As part of the ESPRIT project, 598 lower secondary (11–14 years) and upper secondary (14–19 years) school students from three Italian regions were surveyed between December 2023 and March 2024 using a seven-question online questionnaire on awareness, knowledge, and attitudes about HPV and the HPV vaccine. Count and zero-inflation models were used to determine correlations between sexes, urban/suburban, province of residence, and school type with knowledge. Results: Lower secondary students believed that HPV causes HIV/AIDS (8.9%) or hepatitis C (3.0%) and rarely mentioned anal (21%) and oral sex (9.6%) as ways of transmission. Among upper secondary students, misconceptions were similar, with worrying rates of students stating that HPV only causes cancer in females (18%) or males (2.4%), and low rates of identifying transmission risk through anal (41%) and oral (34%) sex and genital contact (38%). The HPV vaccination rate was quite low (47% in lower secondary students, 61% in upper secondary students). In the regressions, sex, urban/suburban area, and province were the variables associated with higher levels of knowledge for lower secondary students; for upper secondary students, level of knowledge was associated with sex, urban/suburban area, school type, and province of residence. Conclusions: Awareness and knowledge of HPV and the HPV vaccine are low among Italian students in this study and reported vaccination coverage is below the national target. Coordinated efforts at the national level are needed to address this public health issue."
+  },
+  {
+    "objectID": "articles/2025-08-09 my first article/index.html#my-contributions",
+    "href": "articles/2025-08-09 my first article/index.html#my-contributions",
+    "title": "Knowledge About HPV and the HPV Vaccine",
+    "section": "My contributions",
+    "text": "My contributions\n\nData Anlaysis\nSociodemographic data such as school characteristics (e.g., urban/suburban, lower/upper secondary school, northern/central/southern Italy, type of upper secondary school) and participant characteristics (e.g., gender) were included as predictors in the model, while the total score was set as the dependent variable. The types of upper secondary schools considered reflect the three main types of schools that exist in Italy: academic schools (in which the education is mainly theoretical, with a specialization in a specific field, e.g., humanities and antiquity, mathematics and natural sciences, foreign languages, psychology and pedagogy, social sciences, fine arts), technical schools (in which the education provides both a broad theoretical training and a specialization in a specific field (e.g., economics, administration, technology, tourism, agronomy), often in combination with a three-/six-month internship in a company, association, or college), and vocational schools (this type of school provides secondary education with a focus on practical subjects (e.g., engineering, agriculture, gastronomy, technical assistance, crafts) and allows students to start looking for a job immediately after completing their education). None of these types of schools are likely to be single-sex schools in the national public system.\nThere were several possible answers to each question. If an answer was marked correctly, the student received +1, otherwise 0. If the answer was “I don’t know”, the score for the entire question was set to 0, as the student did not know the correct answer, even if they had not marked the wrong answer. The answers given by the students as strings (i.e., “Other”) were not considered when calculating the points. The total score was calculated as the sum of the scores for each valuable question, including Q1, Q2, and Q4. For every question, the frequency and probability of responses for every socio-demographic characteristic were calculated. In addition, the p-value and significance of the proportion test were calculated for each pair of sociodemographic characteristics. The minimum p-value was set at 0.05 and the test power had to be at least 0.8. For the analysis of the overall scores, each observation was weighted to obtain an inverse propensity weighting (IPW) for each linear combination of sociodemographic characteristics. However, for some linear combinations, there were no observations, because there were no schools for these combinations, which made an IPW impossible. Therefore, the data for these groups were generated using a generalized linear model (family quasipoisson) to minimize bias, and then the IPW was calculated. For each socio-demographic characteristic, the weighted Kruskal–Wallis test was calculated to demonstrate stochastic superiority. A t-test or ANOVA test was not used as the assumptions were not met. Finally, a weighted Poisson model with zero-inflation was calculated. First, the probability of receiving 0 points in the survey was assessed using a binomial model and then a Poisson model was calculated."
   },
   {
     "objectID": "articles/new-article-test/index.html",
