@@ -54,5 +54,5 @@ format:
     df-print: paged
     warnings: false
 
-# execute:
-#   freeze: auto
+execute:
+  freeze: auto
