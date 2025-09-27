@@ -10,7 +10,7 @@
 <atom:link href="https://valentinasalcedo.github.io/articles.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Tue, 19 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>new article test</title>
   <dc:creator>erik </dc:creator>
@@ -44,7 +44,7 @@
  ]]></description>
   <category>testing</category>
   <guid>https://valentinasalcedo.github.io/articles/new-article-test/</guid>
-  <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 18 Aug 2025 22:00:00 GMT</pubDate>
   <media:content url="https://valentinasalcedo.github.io/articles/new-article-test/random_picture.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -76,7 +76,7 @@
   <category>Travel</category>
   <category>Coffee</category>
   <guid>https://valentinasalcedo.github.io/articles/2025-07-01 coffee in Trieste/</guid>
-  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 30 Apr 2025 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Knowledge About HPV and the HPV Vaccine</title>
@@ -112,7 +112,7 @@
   <category>Food</category>
   <category>Travel</category>
   <guid>https://valentinasalcedo.github.io/articles/2025-08-09 my first article/</guid>
-  <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 23 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://valentinasalcedo.github.io/articles/2025-08-09 my first article/Trieste natale orsachiotti.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
