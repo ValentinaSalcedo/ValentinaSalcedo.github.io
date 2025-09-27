@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  render: 
-    - "!essay.qmd"
+  # render: 
+  #   - "!essay.qmd"
 
 
 website:
