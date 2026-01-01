@@ -4,7 +4,7 @@ title: |
 subtitle: |
   You, too, can order coffee like a Triestino by knowing a few words and phrases, such as "un caffè al banco" (coffee at the bar).
 description: |
-  Short essay about culture of coffee in Trieste, written for "TheAmerican Magazine"
+  Think you know how to order coffee in Italy? In Trieste, the rules change. Learn the difference between a "Nero" and a "Capo in b" and discover the historic cafés of Europe's coffee capital.
 date: 2025-05-01
 categories: [Food, Travel, Coffee]
 image: cover_xs.png
@@ -18,7 +18,7 @@ image: cover_xs.png
 #     mapping: pathname
 ---
 
-![](cover.png)
+![](cover_xl.png)
 
 Italy is renowned for its coffee shops on every corner. This devotion to coffee, however, is taken to a whole different level in Trieste. Trieste was one of the first European cities to open the *botteghe da caffè*. In the 1700s, these coffeehouses became popular as meeting places for politicians, artists, journalists, writers, and intellectuals. The city’s strategic location between what was once the Austro-Hungarian Empire and Slovenia meant that it was a key entry point for the high-quality green coffee beans coming from Asia, South America, and Africa. Trieste is also the birthplace of the renowned Illy company, a pioneer in espresso machine innovation.
 
@@ -35,3 +35,13 @@ If you want to order like a true Triestino, you will need a dictionary first. He
 These are just a few of the dozens of combinations you can order. To really impress your Italian server, ask for the capo in b (same as capo but in a glass). They will be surprised to see that a tourist unaccompanied by a local seems to know about this classic coffee.
 
 But where can you savor this experience?
+
+After arriving by cruise ship, you should make your first stop the Piazza Unità d’Italia, Trieste’s grand main square. Here, you’ll find the famous “Caffè degli Specchi” with its long queue of eager tourists. For just one euro at the counter, you can sample one of the many coffee variations displayed on a one-meter menu, each item featuring a photo and name, so you shouldn’t be too perplexed.
+
+For those seeking a more refined experience, try visiting historic cafés like Caffè San Marco, where you can spend an entire afternoon immersed in culture and literature (the café even houses its own open library). Alternatively, lovers of classy coffee-drinking atmospheres will adore Caffè Tommaseo, with its dreamy neoclassical interiors accented by Belgian mirrors, a perfect haven if you want a leisurely, inspirational morning.
+
+Choosing the right spot in a city famed for its coffee can seem tricky. Whether you’re drawn to the bustling, traditional bars or the serene, art-filled cafés, remember that each venue has great choices.
+
+Don’t get fooled by long queues — if one café is busy, there are many others waiting to offer you a really good coffee.
+
+Even Triestinos leave their customary bar once in a while to explore other options in their city. And remember, un caffè al banco (coffee at the bar) tastes better with company.
