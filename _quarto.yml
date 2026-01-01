@@ -60,6 +60,6 @@ format:
     warnings: false
     include-in-header:
           - text: |
-              <meta name="google-site-verification" content="googlebe81db27a25d8fa3googlebe81db27a25d8fa3" />
+              <meta name="google-site-verification" content="vIsgyCdtqdpODNl_lKNmAs1SDPqNwbqmwEJi1GGcXTU" />
 execute:
   freeze: auto
