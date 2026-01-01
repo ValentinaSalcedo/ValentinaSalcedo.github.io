@@ -58,6 +58,8 @@ format:
     code-fold: true
     df-print: paged
     warnings: false
-
+    include-in-header:
+          - text: |
+              <meta name="google-site-verification" content="googlebe81db27a25d8fa3googlebe81db27a25d8fa3" />
 execute:
   freeze: auto
