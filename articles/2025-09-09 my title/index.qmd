@@ -1,0 +1,22 @@
+---
+title: |
+  In the city of beer
+subtitle: |
+  You, too, can order coffee like a Triestino by knowing a few words and phrases, such as "un caffè al banco" (coffee at the bar).
+description: |
+  Short essay about culture of coffee in Trieste, written for "TheAmerican Magazine"
+date: 2025-05-01
+categories: [Food, Travel, Coffee]
+draft: true
+# image: Trieste natale orsachiotti.png
+# comments:
+#   giscus:
+#     repo: erikdeluca/erikdeluca.github.io
+#     repo-id: R_kgDONcJGag
+#     category: Announcements
+#     category-id: DIC_kwDONcJGas4Cmzjk
+#     reactions-enabled: true
+#     mapping: pathname
+---
+
+write a new article

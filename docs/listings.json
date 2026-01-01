@@ -3,7 +3,12 @@
     "listing": "/articles.html",
     "items": [
       "/articles/new-article-test/index.html",
+      "/articles/2025-07-01 coffee in Trieste/index.html",
       "/articles/2025-08-09 my first article/index.html"
     ]
+  },
+  {
+    "listing": "/essay.html",
+    "items": []
   }
 ]

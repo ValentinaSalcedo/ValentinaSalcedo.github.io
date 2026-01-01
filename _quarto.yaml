@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # render: 
+  #   - "!essay.qmd"
+
 
 website:
   title: Valentina Salcedo

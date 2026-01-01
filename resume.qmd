@@ -8,65 +8,37 @@ Here is a resume of my education and working experiences.
 
 ### Working
 
-Since I started the master I have been working jobs related to my field of studies. Before, I worked in different backgrounds. Thanks to the multifacetic jobs that I had, I was able to expand my vision.
+Since the beggining of my Bachelor I've been involved in different working experiences that have helped shaping my professional and personal vision
 
-#### Actuary - Internship
+#### Journalist - Internship
 
-I just came back from Munich (Germany) where I completed my internship at Allianz, one of the world's leading insurance and financial services providers. I worked for 6 months at Allianz SE, holding company of Allianz Group, in the H2 department, related to the finance processes. Specifically, I worked in the Group Actuarial Non-Life team, responsible for the Actuarial Function of the company, which is the team in charge of risk assessment, financial modeling, regulatory compliance, and strategic planning.
+I just came back from my erasmus in Malagá(Spain)  when I decided I wanted to try a different first experience by choosing an international Magazine in growth, In Trieste Mag, one of the most promising tourism start-ups in Friuli Venezia Giulia. I worked for 6 months at the editorial and creative team related not just to journalism, but to social media processes. I was responsible for understanding and traducing accurate information from the events and regional meetings to produce news in time. On the other hand, I also had the opportunity to participate in multiple edition, filming and storyteling ideas to attract the youth
 
-In my case, I was dedicated to:
+#### Radio Specialist
 
--   Contributing to the team's reporting products. Mainly Inflation Reserve and Group Reserve Committee;
+From June to August 2022 I was involved in a creative summer camp in USA for children and teens. I had to create, in collaboration with my co-host, a daily programme for 6 to 12 weeks incentiving musical culture and intercultural differences
 
--   Testing new Reserve Reviewing approaches in ResQ, in particular, Bootstrapping for DFMs and Stochastic Result Selection to deal with confidence intervals for the ultimate claims;
+I provided an experience in which the most important thing was to make the things fun to retain children attention for one hour. I was in charge of choosing musical topics, making conversation, bringing special guests to the room, and teaching how to create a podcast in an easy way for everyone,
 
--   Working on an internal project aiming to build and disclose a new model, developed in R, in order to properly assess implicit inflation in Run-Off triangles; in collaboration with one of the companies of the Group;
+The idea of bringing children to the radio felt inspiring. It is the best way to impact in the future adults. From the habits to the genuine interest in the information and being part of the important conversations.
 
--   Support in building tools to facilitate and develop day-to-day processes;
+#### University Academic tutor/ monitor
 
--   Automatizing core reporting processes, by bridging data flow from SAP, Excel, and Word Implementation in VBA.
+During my bachelor, I worked for about one year in this role.
 
-#### Biostatistician
+It was a big challenge for me. I was in charge of teaching to people of my same age or older. I gave study counseling, explained concepts, and helped them make a plan to focus on improvement.
 
-From August 2023 to December 2024, I was involved in national medical research where I was in charge of the statistical part. The topic was *"Education in lower and upper secondary schools and support of the network of reference figures for youth for prevention of HPV and other sexually transmitted infections".*
-
-My tasks were:
-
--   Analyzing surveys via R and building reports for the different geographic areas and school levels;
-
--   Building reports which contained stratified frequency tables, charts, models and statistical tests;
-
--   Writing the methodologic analysis in research papers.
-
-The models built were GLM (generalized linear models), some of them were zero-inflated quasipoisson due to the scoring rules of the survey. The statistical tests used were:
-
--   McNemar test for detecting if there is a change between the pre and post intervention.
-
--   Kruskal-Wallis test to identify if one socio-demographic characteristic is stochasticity superior to another one. This is also confirmed by the terms of the models built.
-
--   Chi-square and proportion test to inference when the frequency of an answer is different by socio-demographic characteristics.
-
-The project is still on the way and once it finish, I'll upload here all my notebooks and link my papers.
-
-#### Teacher
-
-It sounds rare but during my bachelor's, I worked for almost 3 years as a teacher in a public primary school. I started during the pandemic when there was a huge lack of teachers and I took the opportunity!
-
-It was a big challenge for me. I was in charge of teaching subjects such as math and science to children from 6 to 11 y.o. It taught me to manage a team of about 25 people (the students), very heterogeneous. Actually, I didn't learn only how to manage students, but also the other class teachers, as I was given the role of coordinator, handling all the bureaucratic stuff.
-
-It was a really important part of my life where I learned (not only taught) a lot of soft skills about explaining hard concepts in an easy way (for the children is hard, trust me) and managing teams up to 25 people (and sometimes even parents ). In the meanwhile, I continued my studies so strategic planning of my life was the real key to success.
+I was helping in Audiovisual, Journalism genres and writing techniques.
 
 ### Study
 
 Here is a short overall about my studies:
 
--   Master's degree in Statistics and Actuarial Science with a curriculum in Data Science for Finance and Insurance at the University of Trieste. (Currently enrolled)
+- Master's degree in International Marketing, Management and Organization at University of Udine(currently enrolled)
 
--   Erasmus, during my master, at the University of Malaga (Spain) where the classes were in Spanish.
+- Erasmus, during my bachelor, at Universidad de Malagá, where I focused in Audiovisual, PR and digital marketing 
 
--   Bachelor's degree in Statistics and IT for Business, Finance, and Insurance, my thesis was focused on decisional tree models applied to the brewery industry.
-
-So, my fields of study are mainly statistics, data science, actuarial science, IT, and finance.
+- Bachelor's degree in Social Communication and Journalism, my last year project was awarded with the Jose Recasens.
 
 ## Personal Life
 
@@ -74,17 +46,15 @@ So, my fields of study are mainly statistics, data science, actuarial science, I
 
 I think that sport is very important in the life and helps to develop strength and health. Main sports:
 
--   Judo: From 4 y.o., I have done international competitions around Europe. In 2016, I went for 3 weeks for a training camp in Japan. But about Judo, I'm proud of my siblings who have achieved world results, as my brother was 3rd in the [World Judo Championship](https://www.ijf.org/judoka/50950) and 2nd in the European Judo Championship keeping the 1st place in the Juniors (U21) ranking -66Kg.
+- Run: I'm invested in Strava. Lately, I had found that 20's are the best years to try things out. My advice? Follow the run clubs, it makes it easier for you to respect a routine.
 
--   Run: I'm not very fast and not the best runner definitely. But I'm really proud about a personal challenge done in 2023, where I finished a trail of 57 Km without ever having ran more than 21 Km. It was quite mind-challenging.
+- Dance: I know some people don't think it's a sport. But, I can assure you that five or six hours will make you sweat way more than the gym, if well done.
 
--   My secret dream is climbing, and that is my scope for the future. Until now I have only practiced bouldering in Germany, which is a fantastic place for that., but for sure one of my purposes for 2025 is finding my new place for bouldering.
+- Cheerleading: Not like in the american movies. I know you taught about it, but just not. I spent my highschool years trying to memorize dance routines, with one or two jumps or acrobacy included. We made it to the regional every year and nationals once.
 
-### Travel
+### Fashion
 
-I could be boring on this point but it is the truth. I think that post-COVID most people changed their habits and I wasn't the exception. I've been to 20 countries, but some of them have been important for me:
-
--   Colombia: Follow my love and discover another one. That is the magic about travelling. I've lived for 3 months around this amazing country really different from what I expected.
+I have always been interested in this topic. When I was child I used to dream about the day I would be able to afford all the trendy clothes I wanted. Later, I re-discovered myself, and started trying unconventional styles, in order to find my own style. Still on that mission. On the journey, I found the second hand world and got fascinated by the impact it has.
 
 -   Malaga (Spain): I'm sure that everyone who has done an exchange program (e.g. Erasmus) can agree with me, I Ieft a piece of my heart.
 
