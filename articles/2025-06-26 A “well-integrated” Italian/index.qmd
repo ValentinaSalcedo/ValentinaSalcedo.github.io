@@ -1,0 +1,49 @@
+---
+title: |
+  A “well-integrated” Italian?
+subtitle: |
+  *Accordo di integrazione*, or the immigration agreement, as a means to Italian citizenship emphasizes the well-integrated person, but it lacks the warmth of personal, shared experience.
+description: |
+  Beyond the paperwork: A look at what it truly means to be an immigrant in Italy, from the 30-point credit system to finding your chosen family in a new land.
+date: 2025-05-01
+categories: [Culture, Society, Life in Italy]
+image: cover_xs.png
+# comments:
+#   giscus:
+#     repo: erikdeluca/erikdeluca.github.io
+#     repo-id: R_kgDONcJGag
+#     category: Announcements
+#     category-id: DIC_kwDONcJGas4Cmzjk
+#     reactions-enabled: true
+#     mapping: pathname
+---
+
+![](cover_xl.png)
+
+When I first applied for my residence permit in Italy, I signed an agreement stating that I would commit to becoming well-integrated into Italian life within two years. But I had no clue what “well-integrated” was supposed to mean. Not a single person at the *questura* (or local police headquarters) explained anything about it. In fact, it was only months later that I found out that I had made this promise to become well-integrated.
+
+:::{.callout-note}
+Editor’s Note: For the purposes of this essay, this issue of assimilation should be considered distinct from any Italian citizenship concerns through the jus sanguinis, or descendent blood line law, which has had some changes of late, as well as aside from the hot-button issue of refugees, political asylum, or labor-trafficking embedded in Law No. 187/2024.
+:::
+
+After a quick Google search, I found out about the percorso d’integrazione obbligatorio, a mandatory path or credit system that applies to every non-Italian above the age of sixteen who arrives in the country for the first time. It’s almost like a video game: you start with sixteen points, and the goal is to acquire at least thirty points by completing specific tasks. If you don’t meet the requirements within a certain timeframe, you lose points. *Fair enough*, I thought.
+
+The list includes things like taking language or cultural classes, earning a degree, or buying a house. Although the first two sound very reasonable, I began to wonder how achievable all of this is for most people. I’m a Spanish speaker, I have an Italian partner, and I already hold a degree, all of which gives me a theoretical advantage over other immigrants who might be struggling to understand where to start. Bureaucracy is often slow and confusing. Perhaps that’s the real game.
+
+Nobody ever said that immigrating was easy. It’s a process, and it takes time — more for some, less for others. Immigrant, for me and the dictionary, means coming to live permanently in a country in which you were not born. Your genes, race, story, motivations, and future plans don’t count once you land. All immigrants become people who hope to feel at home again.
+
+Home is where you can relax and be yourself. Your safe place. It doesn’t have to be a place, really. It can be a feeling you carry with you.
+
+While having all these thoughts, I found myself wondering again: *What does it mean to be well-integrated?* Is it just speaking the language fluently and hiding your accent? Is it being able to cook Italian food like a local and eat it every single day? Or maybe becoming a regular at the neighborhood bar and ordering your drink in dialect? Is it about becoming Italian in the legal sense?
+
+I thought of a friend. She’s 26, almost 27, and has lived here for 20 years, attending school her entire life in Italy. She pays taxes and owns a home. She speaks Italian — and the Triestine dialect — without a hint of an accent. She also runs a business, which creates a lot of jobs for many people. And yet, legally, she’s not Italian.
+
+Does she feel well-integrated? It’s hard to say. Too Colombian for Italy, too Italian for Colombia. Something’s missing.
+
+To be well-integrated, do you have to give up your identity completely?
+
+In early 2025, I had the chance to participate in the Latitudes project with other immigrants from Latin-America living in Europe. On Monday, we arrived as strangers. One week later, we left as a family, bound by a connection that felt completely natural. Maybe it was the food, the dancing, the shared language, the jokes, or the joy of reliving similar experiences.
+
+Being born as a person from Latin America means growing up with the same kind of mom, the same neighborhood adventures, the same strict schoolteachers, the same *quinceañera* parties, the same unforgettable house parties full of dancing and gossip. We discovered that it’s impossible to forget who you were before arriving in Italy. We are immigrants, and our identity migrates with us. We are Latinos in Europe, but Latin America lives inside each of us.
+
+I don’t really know when you get to feel “well-integrated,” but I’m sure you’ll recognize it by the laughter and the warmth of the hugs you’ll receive in your new home.
