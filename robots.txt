@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /site_libs/
+Disallow: /search.json
+Disallow: /*.qmd$
+Disallow: /*.yml$
+
+Sitemap: https://www.valentinasalcedo.github.io/sitemap.xml
