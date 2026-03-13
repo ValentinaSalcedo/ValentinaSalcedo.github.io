@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/essay.html",
+    "items": []
+  },
+  {
     "listing": "/articles.html",
     "items": [
       "/articles/2025-09-20 Eating vs. eating/index.html",
@@ -11,9 +15,5 @@
       "/articles/2024-12-28 Horrors of December/index.html",
       "/articles/2024-11-25 Spotting Italians abroad/index.html"
     ]
-  },
-  {
-    "listing": "/essay.html",
-    "items": []
   }
 ]
